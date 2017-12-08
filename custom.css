@@ -47,7 +47,6 @@ h1, h2, h3, h4 {
 /* Team Picker */
 .TeamSidebar, .TeamSidebar .StoplightContainer, .TeamSidebar .TeamSidebar-addArea {
    background-color: var(--background) !important;
-   box-shadow: var(--background) 1px 1px 2px;
    color: var(--text);
    z-index: 1;
 }
@@ -58,7 +57,7 @@ h1, h2, h3, h4 {
 /*nav.p-channel_sidebar {*/
 div.client_channels_list_container {
    background-color: var(--background-elevated) !important;
-   box-shadow: var(--background-elevated) 1px 1px 25px;
+   box-shadow: var(--background-elevated) 1px 1px 2px;
    color: var(--text);
    z-index: 1;
 }
